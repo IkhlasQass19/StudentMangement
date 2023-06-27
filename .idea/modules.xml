@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SR/src/EJB.iml" filepath="$PROJECT_DIR$/SR/src/EJB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entities/Entities.iml" filepath="$PROJECT_DIR$/Entities/Entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/StudentMangement.iml" filepath="$PROJECT_DIR$/.idea/StudentMangement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SR/build/build.iml" filepath="$PROJECT_DIR$/SR/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rmiServeur/build/build1.iml" filepath="$PROJECT_DIR$/rmiServeur/build/build1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client/client.iml" filepath="$PROJECT_DIR$/Client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rmiServeur/rmiServeur.iml" filepath="$PROJECT_DIR$/rmiServeur/rmiServeur.iml" />
+    </modules>
+  </component>
+</project>

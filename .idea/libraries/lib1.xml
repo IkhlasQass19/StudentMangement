@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rmiServeur/dist/lib/org.eclipse.persistence.antlr-2.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rmiServeur/dist/lib/org.eclipse.persistence.asm-9.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rmiServeur/dist/lib/org.eclipse.persistence.jpa-2.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rmiServeur/dist/lib/org.eclipse.persistence.jpa.jpql-2.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rmiServeur/dist/lib/jakarta.persistence-2.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rmiServeur/dist/lib/org.eclipse.persistence.moxy-2.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rmiServeur/dist/lib/mysql-connector-j-8.0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rmiServeur/dist/lib/org.eclipse.persistence.core-2.7.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

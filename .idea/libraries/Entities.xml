@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Entities">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Entities/dist/Entities.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

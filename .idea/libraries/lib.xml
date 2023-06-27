@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/jboss-ejb-client-4.0.44.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/javafx.media.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/jboss-cli-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/jboss-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/javafx.swing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/rmiServeur.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/SR.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/fontawesomefx-8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/client/dist/lib/javafx.controls.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

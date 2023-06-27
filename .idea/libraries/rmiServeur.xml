@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rmiServeur">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rmiServeur/dist/rmiServeur.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
